@@ -1,0 +1,4 @@
+
+task 3 explanation
+
+This Streamlit app displays interactive content for two topics: Computer Networks and Operating Systems. Users can choose a topic from the sidebar, view its overview and key concepts in tabs, and optionally display technical insights using a checkbox.

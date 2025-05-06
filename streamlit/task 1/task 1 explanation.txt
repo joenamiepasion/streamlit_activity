@@ -1,0 +1,3 @@
+task 1
+
+This Streamlit app collects basic user information such as address (via text input) and phone number (via number input). When the user clicks the "Submit" button, it displays a personalized success message if the address is entered. If the address is left blank, it shows a warning asking the user to enter their name.

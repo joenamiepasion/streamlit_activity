@@ -1,0 +1,3 @@
+task 5 explanation
+
+This Streamlit app connects to a MySQL database using SQLAlchemy and allows users to log in with basic authentication. Once authenticated, users can view data from either the employees or departments table, apply optional SQL filters, and insert new records using a form. The app provides a user-friendly interface for interacting with a database in real time without writing SQL manually.

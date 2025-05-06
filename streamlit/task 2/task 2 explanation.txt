@@ -1,0 +1,3 @@
+task 2
+
+This Streamlit app allows users to upload a CSV file and interactively explore its contents. If the uploaded file has at least 5 columns, users can view the raw data and filter it based on selected column values. It uses pandas to load and manipulate the data, and provides real-time display using Streamlit widgets like checkboxes and selectboxes.

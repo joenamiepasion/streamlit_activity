@@ -1,0 +1,4 @@
+task 4 explanation
+
+This Streamlit app fetches live COVID-19 data from the public API disease.sh and allows users to select a country from a sidebar. It displays key statistics like total cases, deaths, and recoveries, along with various charts (bar, line, area, pie) to visualize the data. The app also includes a styled data table and handles API errors if the request fails.
+

@@ -1,0 +1,6 @@
+task 6 explanation
+
+
+This Streamlit app captures live video from the webcam using OpenCV and allows users to apply a real-time Canny edge detection filter with adjustable settings. It also includes a snapshot button to save filtered frames as image files. Users can control the video stream and filters interactively through the sidebar.
+
+
